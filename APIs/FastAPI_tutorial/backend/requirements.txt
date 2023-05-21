@@ -1,0 +1,11 @@
+transformers 
+requests
+torch 
+torchvision
+Pillow
+fastapi
+pydantic
+uvicorn
+python-multipart
+PyYAML
+tqdm
